@@ -1,0 +1,14 @@
+{
+  "name": "Shuffle",
+  "version": "1.0.0",
+  "description": "Shuffle your layers!",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "Nick Qurle",
+  "license": "Creative Commons",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.28.0"
+  }
+}
