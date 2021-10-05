@@ -1,7 +1,7 @@
 # Shuffle for Figma
 Randomize your grid! This plugin visually reorders your layers.
 
-![decorative](https://github.com/qurle/shuffle/blob/main/cover.png?raw=true)
+![](https://github.com/qurle/shuffle/blob/main/cover.png?raw=true)
 
 ## How to use
 

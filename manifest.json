@@ -3,6 +3,13 @@
   "id": "1009251283244986435",
   "api": "1.0.0",
   "main": "code.js",
+  "relaunchButtons": [
+    {
+      "command": "relaunch",
+      "name": "Shuffle it",
+      "multipleSelection": true
+    }
+  ],
   "editorType": [
     "figma",
     "figjam"
